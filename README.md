@@ -1,4 +1,4 @@
-## Hi there 👋
+loadstring(game:HttpGet("https://raw.githubusercontent.com/l7cripts7/l7Scripts/refs/heads/XScript/minionsHub", true))()
 
 <!--
 **Minionshub/Minionshub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
